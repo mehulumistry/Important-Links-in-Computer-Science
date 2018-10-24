@@ -1,4 +1,4 @@
-# Important-Links-in-Computer-Science
+## Important-Links-in-Computer-Science
 
 The repo includes the links to understand the most basic to advance concepts
 
@@ -10,4 +10,4 @@ https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk
 # Algorithms
 
 **1)** Rotation of Array and it's Tricks
-https://hackernoon.com/fun-with-array-rotations-add4a335d79a?source=bookmarks---------9---------------------
+https://hackernoon.com/fun-with-array-rotations-add4a335d79a
