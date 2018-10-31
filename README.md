@@ -16,4 +16,4 @@ https://hackernoon.com/fun-with-array-rotations-add4a335d79a
 **1)** The Link also includes some design patterns along with SOLID principles.
 http://www.graffitoid.com/
 
-http://blog.gainlo.co(design youtube, recommendation system etc)
+http://blog.gainlo.co (design youtube, recommendation system etc)
