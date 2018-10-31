@@ -2,7 +2,7 @@
 
 The repo includes the links to understand the most basic to advance concepts
 
-## Core JavaScript
+## Core JavaScript Concepts
 
 **1)** Closure, Execution Context and Scopes.
 https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk
@@ -11,3 +11,6 @@ https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk
 
 **1)** Rotation of Array and it's Tricks
 https://hackernoon.com/fun-with-array-rotations-add4a335d79a
+
+## SOLID Principle(Visualization)
+**1)** The Link also includes some design patterns along with SOLID principles.
