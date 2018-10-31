@@ -14,3 +14,4 @@ https://hackernoon.com/fun-with-array-rotations-add4a335d79a
 
 ## SOLID Principles (Visualization)
 **1)** The Link also includes some design patterns along with SOLID principles.
+http://www.graffitoid.com/
