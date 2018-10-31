@@ -12,5 +12,5 @@ https://dev.to/tylermcginnis/a-beginners-guide-to-javascripts-prototype-5kk
 **1)** Rotation of Array and it's Tricks
 https://hackernoon.com/fun-with-array-rotations-add4a335d79a
 
-## SOLID Principle(Visualization)
+## SOLID Principles (Visualization)
 **1)** The Link also includes some design patterns along with SOLID principles.
