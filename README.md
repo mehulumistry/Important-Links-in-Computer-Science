@@ -69,3 +69,8 @@ A product backlog might include several types of item:
   * ***EPICS*** – larger features that need to be broken down into user stories
   * ***Bugs***
   * ***Spikes*** – tasks which don’t directly generate value like research
+  
+## Message Brokers ##
+
+### Difference between Apache Kafka and Amazon Kinesis
+https://medium.com/aws-activate-startup-blog/the-tale-of-two-messaging-platforms-apache-kafka-and-amazon-kinesis-654963bdbf35
