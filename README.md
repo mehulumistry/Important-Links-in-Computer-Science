@@ -76,5 +76,6 @@ A product backlog might include several types of item:
 https://medium.com/aws-activate-startup-blog/the-tale-of-two-messaging-platforms-apache-kafka-and-amazon-kinesis-654963bdbf35
 
 ## System Design ##
-https://github.com/FreemanZhang/system-design
-http://highscalability.com/
+**1)** https://github.com/FreemanZhang/system-design
+
+**2)** http://highscalability.com/
