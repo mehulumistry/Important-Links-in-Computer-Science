@@ -77,3 +77,4 @@ https://medium.com/aws-activate-startup-blog/the-tale-of-two-messaging-platforms
 
 ## System Design ##
 https://github.com/FreemanZhang/system-design
+http://highscalability.com/
