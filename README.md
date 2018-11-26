@@ -79,3 +79,6 @@ https://medium.com/aws-activate-startup-blog/the-tale-of-two-messaging-platforms
 **1)** https://github.com/FreemanZhang/system-design
 
 **2)** http://highscalability.com/
+
+**3)** What is Reverse Proxy?
+https://github.com/donnemartin/system-design-primer(Read Reverse Proxy section here. It contains good explantions of it.
