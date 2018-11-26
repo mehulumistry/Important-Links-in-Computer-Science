@@ -82,3 +82,4 @@ https://medium.com/aws-activate-startup-blog/the-tale-of-two-messaging-platforms
 
 **3)** What is Reverse Proxy?
 https://github.com/donnemartin/system-design-primer(Read Reverse Proxy section here. It contains good explantions of it.
+**4)** Read Latency number every programmer should know.
